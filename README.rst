@@ -12,7 +12,6 @@ From github:
 ------------
 
 ::
-
     pip install git+https://github.com/Erotemic/pydir.git
 
 
@@ -22,5 +21,3 @@ From github:
    :target: https://codecov.io/github/Erotemic/pydir?branch=master
 .. |Appveyor| image:: https://ci.appveyor.com/api/projects/status/github/Erotemic/pydir?svg=True
    :target: https://ci.appveyor.com/project/Erotemic/pydir/branch/master
-.. |Pypi| image:: https://img.shields.io/pypi/v/pydir.svg
-   :target: https://pypi.python.org/pypi/pydir
