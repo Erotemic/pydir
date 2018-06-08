@@ -1,9 +1,6 @@
 |Travis| |Codecov| |Appveyor| |Pypi|
 
-
-Pydir - A standard for using directories and paths in Python
-============================================================
-
+A standard for using directories and paths in Python
 
 Installation:
 =============
