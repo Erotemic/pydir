@@ -5,8 +5,6 @@ A standard for using directories and paths in Python
 Installation:
 =============
 
-From github:
-------------
     pip install git+https://github.com/Erotemic/pydir.git
 
 
